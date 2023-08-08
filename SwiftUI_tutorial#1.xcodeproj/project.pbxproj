@@ -13,6 +13,8 @@
 		B7BE08992A8164F8001FF171 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7BE08982A8164F8001FF171 /* Preview Assets.xcassets */; };
 		B7BE089B2A8164F8001FF171 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BE089A2A8164F8001FF171 /* Persistence.swift */; };
 		B7BE089E2A8164F8001FF171 /* SwiftUI_tutorial_1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B7BE089C2A8164F8001FF171 /* SwiftUI_tutorial_1.xcdatamodeld */; };
+		B7BE08A52A81FD8F001FF171 /* MyVstackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BE08A42A81FD8F001FF171 /* MyVstackView.swift */; };
+		B7BE08A72A82068D001FF171 /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BE08A62A82068D001FF171 /* MyTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		B7BE08982A8164F8001FF171 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B7BE089A2A8164F8001FF171 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		B7BE089D2A8164F8001FF171 /* SwiftUI_tutorial_1.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftUI_tutorial_1.xcdatamodel; sourceTree = "<group>"; };
+		B7BE08A42A81FD8F001FF171 /* MyVstackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyVstackView.swift; sourceTree = "<group>"; };
+		B7BE08A62A82068D001FF171 /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				B7BE089A2A8164F8001FF171 /* Persistence.swift */,
 				B7BE089C2A8164F8001FF171 /* SwiftUI_tutorial_1.xcdatamodeld */,
 				B7BE08972A8164F8001FF171 /* Preview Content */,
+				B7BE08A42A81FD8F001FF171 /* MyVstackView.swift */,
+				B7BE08A62A82068D001FF171 /* MyTextView.swift */,
 			);
 			path = "SwiftUI_tutorial#1";
 			sourceTree = "<group>";
@@ -144,8 +150,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7BE089B2A8164F8001FF171 /* Persistence.swift in Sources */,
+				B7BE08A72A82068D001FF171 /* MyTextView.swift in Sources */,
 				B7BE089E2A8164F8001FF171 /* SwiftUI_tutorial_1.xcdatamodeld in Sources */,
 				B7BE08942A8164F7001FF171 /* ContentView.swift in Sources */,
+				B7BE08A52A81FD8F001FF171 /* MyVstackView.swift in Sources */,
 				B7BE08922A8164F7001FF171 /* SwiftUI_tutorial_1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
